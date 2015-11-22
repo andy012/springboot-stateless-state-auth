@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.jdriven.stateless.security.TokenHandlerTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2015-11-22T12:03:06" hostname="doo.local" time="0.026">
+  <properties/>
+  <testcase name="testParseInvalidTokens_NoParseExceptions" classname="com.jdriven.stateless.security.TokenHandlerTest" time="0.004"/>
+  <testcase name="testCreateToken_ExcludePasswords" classname="com.jdriven.stateless.security.TokenHandlerTest" time="0.007"/>
+  <testcase name="testRoundTrip_ProperData" classname="com.jdriven.stateless.security.TokenHandlerTest" time="0.007"/>
+  <testcase name="testCreateToken_SeparatorCharInUsername" classname="com.jdriven.stateless.security.TokenHandlerTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
